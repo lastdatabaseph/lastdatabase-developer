@@ -72,6 +72,18 @@ Developers are responsible for using LastDatabase services and data in accordanc
 - Documentation: https://lastdatabase.com/docs
 - API: https://lastdatabase.com/api
 
+## OpenAPI Specification
+
+The canonical machine-readable OpenAPI 3.1 specification is published by LastDatabase:
+
+- https://lastdatabase.com/openapi.yaml
+
+A repository copy is also available:
+
+- [openapi/openapi.yaml](openapi/openapi.yaml)
+
+Use the canonical LastDatabase URL for API discovery, tooling, and automated specification retrieval.
+
 ## API Examples
 
 Examples for the LastDatabase Lead Search API:
