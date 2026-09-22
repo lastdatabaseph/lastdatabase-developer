@@ -1,0 +1,16 @@
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.*
+secrets.*
+auth.*
+token.*
+*.csv
+*.xlsx
+*.sql
+*.sqlite
+*.db
+.DS_Store
