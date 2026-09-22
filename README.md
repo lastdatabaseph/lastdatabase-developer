@@ -71,3 +71,19 @@ Developers are responsible for using LastDatabase services and data in accordanc
 - Website: https://lastdatabase.com/
 - Documentation: https://lastdatabase.com/docs
 - API: https://lastdatabase.com/api
+
+## API Examples
+
+Examples for the LastDatabase Lead Search API:
+
+- [API Search Guide](docs/api-search.md)
+- [cURL / Bash](examples/curl/search-leads.sh)
+- [PHP](examples/php/search-leads.php)
+- [Python](examples/python/search_leads.py)
+- [JavaScript / Node.js 18+](examples/javascript/search-leads.js)
+
+All examples use the `LASTDATABASE_API_KEY` environment variable.
+
+Never commit a real API key to source control.
+
+See the [official API documentation](https://lastdatabase.com/docs/api).
